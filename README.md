@@ -18,7 +18,7 @@ To write a program to perform linear search and binary search using python progr
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
 ## Program for linear search method to match the item in a list
-## Developed by: your name: s.vinod kumar
+## Developed by: s.vinod kumar
 ## RegisterNumber:22004903
 
 i)	Use a linear search method to match the item in a list.
