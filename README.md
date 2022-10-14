@@ -97,10 +97,21 @@ else:
     print(arr)
     print("Element found at index: ",result)
 ```
+
+
+
+
+
+
+
 ## OUTPUT
+
 ![output](/OUTPUT2.png)
+
 ![output](/OUTPUT1.png)
+
 ![output](/OUTPUT.png)
+
 
 
 
